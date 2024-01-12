@@ -2,7 +2,7 @@
 
 ## Hi there! 🖖
 
-Fique à vontade para conhecer mais sobre meus projetos.
+Feel free to learn more about my projects.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"</img>
